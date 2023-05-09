@@ -1,4 +1,4 @@
-# DataEngineer_projects
+# Description
 
 This repository contains the ETL pipeline for populating the sparkifydb database.
 
