@@ -1,0 +1,9 @@
+{
+	"name": "Tokyo-o-DF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "99db5780-ab5b-4aef-a129-6345642d71ad",
+		"tenantId": "a8eec281-aaa3-4dae-ac9b-9a398b9215e7"
+	}
+}
